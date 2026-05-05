@@ -20,7 +20,6 @@ redirect_from:
 Hi there! My name is Tala (塔拉), currently a senior undergraduate student majoring in Artificial Intelligence at School of Future Technology,Dalian University of Technology, and researching at the [IIAU-Lab](https://iiaulab.github.io/). I will be continuing here as a direct PhD student, advised by [Prof. Xu Jia](https://stephenjia.github.io/).
 My current research interests primarily focus on **Video/Image Generation** and **Multimodal Large Language Models**. Please feel free to contact me if you are interested in my research or potential collaborations.
 
-You can find my <a href='https://scholar.google.com/citations?user=MIyTIQcAAAAJ'>Google Scholar citations <strong><span id='total_cit'>updating...</span></strong></a> (Or use the Google Scholar badge <a href='https://scholar.google.com/citations?user=MIyTIQcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 One Paper is accepted by ACL Findings 2026.
