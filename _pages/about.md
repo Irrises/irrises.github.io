@@ -32,7 +32,7 @@ You can find my <a href='https://scholar.google.com/citations?user=MIyTIQcAAAAJ'
 
 [Seek-and-Solve: Benchmarking MLLMs for Visual Clue-Driven Reasoning in Daily Scenarios](https://xiaominli1020.github.io/DailyClue/)
 
-Xiaomin Li<sup>\*</sup>, **Tala Wang **<sup>\*</sup>, Zichen Zhong<sup>\*</sup>, Ying Zhang, Zirui Zheng, Takashi Isobe, Dezhuang Li, Huchuan Lu, You He, Xu Jia<sup>✉</sup>
+Xiaomin Li<sup>\*</sup>, **Tala Wang**<sup>\*</sup>, Zichen Zhong<sup>\*</sup>, Ying Zhang, Zirui Zheng, Takashi Isobe, Dezhuang Li, Huchuan Lu, You He, Xu Jia<sup>✉</sup>
 
 <sup>\*</sup>Equal Contribution    <sup>✉</sup>Corresponding Author
 
@@ -43,10 +43,10 @@ Xiaomin Li<sup>\*</sup>, **Tala Wang **<sup>\*</sup>, Zichen Zhong<sup>\*</sup>,
 </div>
 
 # 💻 Internships
-
+-
 
 # 🎖 Honors and Awards
-
+-
 
 # 📖 Education
 - *2026.09 - Present (Upcoming)*, Direct PhD Student, Dalian University of Technology. 
